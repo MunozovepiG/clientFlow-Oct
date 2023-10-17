@@ -84894,7 +84894,7 @@ A.oR.prototype={
 Y(){return new A.RF(this.c,B.n)}}
 A.RF.prototype={
 E(a){var s,r,q,p,o,n=this,m=null,l=t.w,k=a.M(l).f.a.a
-if(n.d==="A Maurtian citizen")n.d="NIC."
+if(n.d==="A Mauritian citizen")n.d="NIC."
 else n.d="passport."
 l=a.M(l).f
 s=A.B(m,56,m)
